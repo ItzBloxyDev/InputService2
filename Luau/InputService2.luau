@@ -116,4 +116,4 @@ end
 newBindable("InputBegan",Enum.UserInputState.Begin)
 newBindable("InputEnded",Enum.UserInputState.End)
 
-return InputService2 -- no way
+return InputService2
